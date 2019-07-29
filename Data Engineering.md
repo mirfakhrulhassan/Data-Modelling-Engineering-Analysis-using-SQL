@@ -1,4 +1,4 @@
-% Data Engineering using SQL
+%Data Engineering using SQL
 
 # Creating Tables
 
